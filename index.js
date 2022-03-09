@@ -16,3 +16,6 @@ console.log(primeiroObjeto.area())
 
 let segundoObjeto = new Retangulo("60", "30");
 console.log(segundoObjeto.area())
+
+let terceiroObjeto = new Retangulo("10", "20");
+console.log(terceiroObjeto.area())
